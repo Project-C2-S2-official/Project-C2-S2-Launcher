@@ -1,4 +1,5 @@
-# Project-C2-S2-Launcher
+# Project C2-S2 (Projevt Chapter 2 season 2)
+# Is a launcher created in C# and c++ this project was created by people who want the OG Fortnite Chapter 2 Season experience back
 ![4D033BDA-1696-4DE4-A106-E7E3B2B81685](https://github.com/user-attachments/assets/1a6d8ded-3f3f-444e-bed6-c74fb7774964)
 
 # Downloads
